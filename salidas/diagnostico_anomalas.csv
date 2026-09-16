@@ -1,0 +1,23 @@
+ID_Valvula,Error,Top_sensores,Metodo
+L071,11.949969462085166,"Peso_g (97%), Tiempo_ciclo_s (2%), Temperatura_C (1%)",ambos
+L077,9.43556685821139,"Tiempo_ciclo_s (98%), Presion_bar (1%), Diametro_mm (0%)",ambos
+L074,12.167544729291299,"Peso_g (84%), Tiempo_ciclo_s (7%), Presion_bar (4%)",ambos
+L085,5.681259361846647,"Dureza_HRC (98%), Diametro_mm (1%), Temperatura_C (0%)",ambos
+L083,7.727576067548019,"Tiempo_ciclo_s (99%), Temperatura_C (0%), Presion_bar (0%)",ambos
+L073,10.397643206380573,"Peso_g (88%), Presion_bar (3%), Diametro_mm (3%)",ambos
+L078,13.177240096123073,"Peso_g (94%), Temperatura_C (2%), Dureza_HRC (2%)",ambos
+L079,14.856061201816106,"Presion_bar (90%), Dureza_HRC (4%), Peso_g (3%)",ambos
+L087,1.225571761888781,"Presion_bar (27%), Peso_g (27%), Diametro_mm (23%)",solo_AE
+L100,1.463007235507866,"Presion_bar (26%), Dureza_HRC (26%), Peso_g (19%)",solo_AE
+L086,0.719055574113351,"Dureza_HRC (43%), Temperatura_C (43%), Diametro_mm (9%)",solo_AE
+L082,7.1157723096726455,"Diametro_mm (94%), Presion_bar (2%), Tiempo_ciclo_s (1%)",ambos
+L080,4.832771415159016,"Presion_bar (82%), Diametro_mm (8%), Temperatura_C (4%)",ambos
+L081,5.825451924948992,"Temperatura_C (91%), Dureza_HRC (3%), Presion_bar (3%)",ambos
+L093,1.0469390154286886,"Tiempo_ciclo_s (27%), Presion_bar (26%), Peso_g (17%)",solo_AE
+L084,14.006704899963786,"Presion_bar (81%), Peso_g (6%), Dureza_HRC (5%)",ambos
+L072,7.362699601745018,"Tiempo_ciclo_s (73%), Diametro_mm (9%), Temperatura_C (6%)",ambos
+L076,17.7473121908023,"Tiempo_ciclo_s (99%), Dureza_HRC (0%), Presion_bar (0%)",ambos
+L075,17.089232170265536,"Tiempo_ciclo_s (100%), Dureza_HRC (0%), Peso_g (0%)",ambos
+L091,1.2351924638404062,"Peso_g (40%), Dureza_HRC (28%), Presion_bar (21%)",solo_AE
+L099,1.763097154218844,"Dureza_HRC (32%), Temperatura_C (29%), Presion_bar (12%)",solo_AE
+L092,1.419707276081566,"Presion_bar (47%), Tiempo_ciclo_s (39%), Peso_g (10%)",solo_AE

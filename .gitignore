@@ -1,0 +1,26 @@
+# Python / entornos
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+.python-version
+
+# Gradio / IDE
+.gradio/
+.idea/
+.vscode/
+*.log
+
+# Locales pesados / no necesarios en la nube
+ACTIVIDAD_2.zip
+entregable/
+lanzar_nube.py
+.DS_Store
+Thumbs.db
+
+# Salidas regenerables (excepto el modelo y figuras clave para la app)
+salidas/CasoEstudioValvulas_Entrega.xlsx
+salidas/Documento_Explicativo_R1-A2-S4_Modelo_Deep_Learning.docx
+salidas/url_nube.txt
